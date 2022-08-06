@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# My own additions
+files_to_anonimize/
+anonimized_files/
+
 # C extensions
 *.so
 
